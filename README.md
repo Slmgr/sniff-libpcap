@@ -28,7 +28,7 @@
 # apt-get install flex
 # apt-get install m4
 ```
-在libcap官方网站下载库并安装:www.tcpdump.org
+>> 在libcap官方网站下载库并安装:www.tcpdump.org
 ``` bash
 # cd /下载的路径
 # tar zxvf 下载的文件名 解压完的路径
@@ -44,7 +44,7 @@
 # brew install flex
 # brew install m4
 ```
-在libcap官方网站下载库并安装:www.tcpdump.org
+>> 在libcap官方网站下载库并安装:www.tcpdump.org
 ``` bash
 # cd /下载的路径
 # tar zxvf 下载的文件名 解压完的路径
@@ -54,7 +54,7 @@
 # make install
 # yum install libpcap-devel
 ```
-测试libpcap库是否安装成功
+>> 测试libpcap库是否安装成功
 ``` C
 //device.c
 #include <stdio.h>
